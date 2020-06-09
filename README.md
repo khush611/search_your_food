@@ -4,4 +4,4 @@
 ### ✔️It will fetch you a list of dishes along with ingredients,some healthy facts for each and the calorie intakes.
 
 ## API used:
-https://developer.edamam.com/edamam-recipe-api - automatic!
+https://developer.edamam.com/edamam-recipe-api 
